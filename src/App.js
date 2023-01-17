@@ -2,15 +2,15 @@ import ExpenseItem from "./components/ExpenseItem";
 
 function App() {
   const expenses = [{
-    date: new Date("2022-07-06"),
+    date: new Date("2022-11-06"),
     title:'Insurance',
     amount:290
   }, {
-    date:new Date("2022-03-06"),
+    date:new Date("2022-10-06"),
     title:'Rent',
     amount:490
   }, {
-    date: new Date("2022-05-05"),
+    date: new Date("2022-12-05"),
     title:'Loan',
     amount:590
   }]
